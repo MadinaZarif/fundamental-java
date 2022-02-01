@@ -17,16 +17,5 @@ public class TimeTables {
             System.out.println();
         }}}
     //
-    /**
-     *  2 x 1 = 2
-     *  2 x 2 = 4
-     *
-     *
-     *  //--------
-     *  3 x 2 = 6
-     *
-     *
-     *  ---
-     *  9 x 1 = 9
-     * */
+   
 
